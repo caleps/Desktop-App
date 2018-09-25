@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{719972E5-8A95-4DC0-AFDC-2A87D84E1C9A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>aaaaa</RootNamespace>
+    <AssemblyName>aaaaa</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="correctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correctors.Designer.cs">
+      <DependentUpon>correctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editcorrector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editcorrector.Designer.cs">
+      <DependentUpon>editcorrector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exam.Designer.cs">
+      <DependentUpon>exam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="load_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="load_1.Designer.cs">
+      <DependentUpon>load_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_frm.Designer.cs">
+      <DependentUpon>main_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newCorrector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newCorrector.Designer.cs">
+      <DependentUpon>newCorrector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newexam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newexam.Designer.cs">
+      <DependentUpon>newexam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newteacher_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newteacher_frm.Designer.cs">
+      <DependentUpon>newteacher_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="teacher_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher_frm.Designer.cs">
+      <DependentUpon>teacher_frm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="correctors.resx">
+      <DependentUpon>correctors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editcorrector.resx">
+      <DependentUpon>editcorrector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exam.resx">
+      <DependentUpon>exam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="load_1.resx">
+      <DependentUpon>load_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_frm.resx">
+      <DependentUpon>main_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newCorrector.resx">
+      <DependentUpon>newCorrector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newexam.resx">
+      <DependentUpon>newexam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newteacher_frm.resx">
+      <DependentUpon>newteacher_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="teacher_frm.resx">
+      <DependentUpon>teacher_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

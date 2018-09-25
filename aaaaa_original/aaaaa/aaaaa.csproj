@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{719972E5-8A95-4DC0-AFDC-2A87D84E1C9A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>aaaaa</RootNamespace>
+    <AssemblyName>aaaaa</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\aaaaa\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>79236348D76D45A7F1C7D9B74084F5B32000463D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>aaaaa_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfoExtended, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="allexams.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="allexams.Designer.cs">
+      <DependentUpon>allexams.cs</DependentUpon>
+    </Compile>
+    <Compile Include="correctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="correctors.Designer.cs">
+      <DependentUpon>correctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editcorrector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editcorrector.Designer.cs">
+      <DependentUpon>editcorrector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exam.Designer.cs">
+      <DependentUpon>exam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="load_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="load_1.Designer.cs">
+      <DependentUpon>load_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_frm.Designer.cs">
+      <DependentUpon>main_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newCorrector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newCorrector.Designer.cs">
+      <DependentUpon>newCorrector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newexam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newexam.Designer.cs">
+      <DependentUpon>newexam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newteacher_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newteacher_frm.Designer.cs">
+      <DependentUpon>newteacher_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="teacher_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher_frm.Designer.cs">
+      <DependentUpon>teacher_frm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="allexams.resx">
+      <DependentUpon>allexams.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="correctors.resx">
+      <DependentUpon>correctors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editcorrector.resx">
+      <DependentUpon>editcorrector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exam.resx">
+      <DependentUpon>exam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="load_1.resx">
+      <DependentUpon>load_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_frm.resx">
+      <DependentUpon>main_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newCorrector.resx">
+      <DependentUpon>newCorrector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newexam.resx">
+      <DependentUpon>newexam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newteacher_frm.resx">
+      <DependentUpon>newteacher_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="teacher_frm.resx">
+      <DependentUpon>teacher_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="aaaaa_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

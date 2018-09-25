@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace aaaaa
+{
+    public partial class teacher_frm : Form
+    {
+        public teacher_frm()
+        {
+            InitializeComponent();
+        }
+
+        private void teacher_frm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+           newteacher_frm frm = new newteacher_frm();
+            frm.ShowDialog();
+            // this.Close();
+            this.Visible = true;
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+          exam frm = new exam();
+            frm.ShowDialog();
+            // this.Close();
+            this.Visible = true;
+        }
+    }
+}

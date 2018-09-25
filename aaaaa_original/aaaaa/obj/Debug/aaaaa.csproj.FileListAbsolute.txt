@@ -1,0 +1,120 @@
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\bin\Debug\aaaaa.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\bin\Debug\aaaaa.exe
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\bin\Debug\aaaaa.pdb
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.exe
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.pdb
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.Form1.resources
+c:\users\chris\documents\visual studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.main_frm.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.newteacher_frm.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.teacher_frm.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.exam.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.newexam.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.correctors.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.editcorrector.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\aaaaa\aaaaa\obj\Debug\aaaaa.newCorrector.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe.config
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exe
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.pdb
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.pdb
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.correctors.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.editcorrector.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exam.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.Form1.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.main_frm.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newCorrector.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newexam.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newteacher_frm.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.Properties.Resources.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.teacher_frm.resources
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.csproj.GenerateResource.Cache
+C:\Users\k.c 22-12-2016\Desktop\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.csprojResolveAssemblyReference.cache
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.correctors.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.editcorrector.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exam.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.Form1.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.main_frm.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newCorrector.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newexam.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newteacher_frm.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.Properties.Resources.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.teacher_frm.resources
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.csproj.GenerateResource.Cache
+E:\FCI\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe.config
+E:\FCI\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe
+E:\FCI\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.pdb
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exe
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.pdb
+E:\FCI\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.csprojResolveAssemblyReference.cache
+D:\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe.config
+D:\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe
+D:\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.pdb
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.correctors.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.editcorrector.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exam.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.Form1.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.main_frm.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newCorrector.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newexam.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newteacher_frm.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.Properties.Resources.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.teacher_frm.resources
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.csproj.GenerateResource.Cache
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exe
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.pdb
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.csprojResolveAssemblyReference.cache
+F:\MY PROJECTS\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe.config
+F:\MY PROJECTS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exe
+F:\MY PROJECTS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.pdb
+D:\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe.manifest
+D:\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.application
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exe.manifest
+D:\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.application
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe.config
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe.manifest
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.application
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.exe
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\bin\Debug\aaaaa.pdb
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.correctors.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.editcorrector.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exam.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.Form2.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.Form1.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.main_frm.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newCorrector.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newexam.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.newteacher_frm.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.Properties.Resources.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.teacher_frm.resources
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.csproj.GenerateResource.Cache
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exe.manifest
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.application
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.exe
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.pdb
+E:\WORK PROGRAMS\aaaaa\aaaaa\aaaaa\obj\Debug\aaaaa.allexams.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\bin\Debug\aaaaa.exe.config
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.exe
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.pdb
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\bin\Debug\aaaaa.exe.manifest
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\bin\Debug\aaaaa.application
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\bin\Debug\aaaaa.exe
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\bin\Debug\aaaaa.pdb
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.allexams.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.correctors.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.editcorrector.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.exam.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.Form2.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.Form1.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.main_frm.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.newCorrector.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.newexam.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.newteacher_frm.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.Properties.Resources.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.teacher_frm.resources
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.csproj.GenerateResource.Cache
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.exe.manifest
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.application
+E:\WORK PROGRAMS\aaaaa_original\aaaaa\obj\Debug\aaaaa.csprojResolveAssemblyReference.cache
